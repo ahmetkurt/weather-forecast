@@ -1,7 +1,17 @@
 {
   "name": "weather-forecast",
   "version": "0.1.0",
-  "private": true,
+  "description": "Display of weather and forecast information of the cities that I have seen using the Vue CLI 3 and the Open Weather Map API.",
+  "author": "Ahmet Kurt",
+  "license": "ISC",
+  "homepage": "https://github.com/ahmetkurt/weather-forecast#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmetkurt/weather-forecast.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ahmetkurt/weather-forecast/issues"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
