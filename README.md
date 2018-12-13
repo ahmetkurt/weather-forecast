@@ -1,4 +1,4 @@
-# Weather Forecast
+# 🌡 Weather Forecast
 
 Display of weather and forecast information of the cities that I have seen using the [**Vue CLI 3**](https://cli.vuejs.org/) and the [**OpenWeatherMap API**](https://openweathermap.org/api).
 
