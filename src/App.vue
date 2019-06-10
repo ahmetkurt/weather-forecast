@@ -19,8 +19,8 @@ const citiesEnum = Object.freeze({
   vaduz: 3042030,
   copenhagen: 2618425,
   london: 2643743,
-  edinburgh: 2650225,
   cardiff: 2653822,
+  riga: 456172,
 });
 
 export default {
@@ -36,8 +36,8 @@ export default {
         citiesEnum.vaduz,
         citiesEnum.copenhagen,
         citiesEnum.london,
-        citiesEnum.edinburgh,
         citiesEnum.cardiff,
+        citiesEnum.riga,
       ],
       units: 'metric',
       list: {},
